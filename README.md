@@ -1,4 +1,6 @@
 # google-gloud-sdk Docker image
+[![Build Status](https://travis-ci.org/sbani/docker-google-gloud-sdk-alpine.svg?branch=master)](https://travis-ci.org/sbani/docker-google-gloud-sdk-alpine)
+
 Slim Docker image for google cloud sdk based on alpine.
 
 There are two Dockerfiles and tags inside this repo:
